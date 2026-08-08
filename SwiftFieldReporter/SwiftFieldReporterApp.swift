@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftFieldReporterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IncidentListView()
         }
     }
 }
